@@ -8,3 +8,4 @@ Icon=application-default-icon
 Terminal=false
 Type=Application
 Keywords=Text;SMS;Communication;
+X-GNOME-UsesNotifications=true

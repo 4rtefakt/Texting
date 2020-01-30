@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Texting
+GenericName=Texting App
+Comment=Receive and send texts from your desktop.
+Categories=Communication;Office;
+Exec=com.github.4rtefakt.texting
+Icon=application-default-icon
+Terminal=false
+Type=Application
+Keywords=Text;SMS;Communication;

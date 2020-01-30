@@ -1,0 +1,16 @@
+Source: com.github.4rtefakt.texting
+Section: x11
+Priority: extra
+Maintainer: Clement Boutin <cboutin@kore.sh>
+Build-Depends: debhelper (>= 10.5.1),
+        gettext,
+        libgtk-3-dev (>= 3.10),
+        meson,
+        valac (>= 0.28.0)
+Standards-Version: 4.1.1
+
+Package: com.github.4rtefakt.texting
+Architecture: any
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Description: Texting
+This app lets you send and receive messages from the comfiness of your desktop.

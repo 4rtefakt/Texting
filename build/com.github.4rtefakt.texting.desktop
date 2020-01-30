@@ -1,11 +1,16 @@
 [Desktop Entry]
+Name[fr]=Texting
 Name=Texting
+GenericName[fr]=Texting
 GenericName=Texting App
+Comment[fr]=Recevez et envoyez des textos directement depuis votre bureau.
 Comment=Receive and send texts from your desktop.
 Categories=Communication;Office;
 Exec=com.github.4rtefakt.texting
+Icon[fr]=phone
 Icon=phone
 Terminal=false
 Type=Application
+Keywords[fr]=Text;SMS;Communication;
 Keywords=Text;SMS;Communication;
 X-GNOME-UsesNotifications=true

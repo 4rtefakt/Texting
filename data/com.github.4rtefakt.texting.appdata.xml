@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2019 Clement Boutin <cboutin@kore.sh> -->
+<component type="desktop">
+    <id>com.github.4rtefakt.texting</id>
+    <metadata_license>CC0</metadata_license>
+    <name>Texting</name>
+    <summary>Texting just got comfy.</summary>
+    <description>
+        <p>Texting allows you to send and receive SMS directly from your desktop using the kdeconnect app.</p>
+    </description>
+    <custom>
+       <value key="x-appcenter-suggested-price">5</value>
+    </custom>
+</component>

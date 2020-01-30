@@ -1,0 +1,49 @@
+# German translations for com.github.4rtefakt.texting package.
+# Copyright (C) 2020 THE com.github.4rtefakt.texting'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the com.github.4rtefakt.texting package.
+# Automatically generated, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: com.github.4rtefakt.texting\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-30 23:50+0100\n"
+"PO-Revision-Date: 2020-01-30 23:47+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: data/com.github.4rtefakt.texting.desktop.in:3
+#: data/com.github.4rtefakt.texting.appdata.xml.in:6
+msgid "Texting"
+msgstr ""
+
+#: data/com.github.4rtefakt.texting.desktop.in:4
+msgid "Texting App"
+msgstr ""
+
+#: data/com.github.4rtefakt.texting.desktop.in:5
+msgid "Receive and send texts from your desktop."
+msgstr ""
+
+#: data/com.github.4rtefakt.texting.desktop.in:8
+msgid "application-default-icon"
+msgstr ""
+
+#: data/com.github.4rtefakt.texting.desktop.in:11
+msgid "Text;SMS;Communication;"
+msgstr ""
+
+#: data/com.github.4rtefakt.texting.appdata.xml.in:7
+msgid "Texting just got comfy."
+msgstr ""
+
+#: data/com.github.4rtefakt.texting.appdata.xml.in:9
+msgid ""
+"Texting allows you to send and receive SMS directly from your desktop using "
+"the kdeconnect app."
+msgstr ""
